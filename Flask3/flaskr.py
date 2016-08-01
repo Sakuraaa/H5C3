@@ -41,5 +41,7 @@ def get_db():
         g.sqlite_db = connect_db()
     return g.sqlite_db
 
+
+
 if __name__ == '__main__':
     app.run(debug=True)
