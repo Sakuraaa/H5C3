@@ -1,0 +1,42 @@
+.main-but {
+    padding-top: 10px;
+    margin-left: 50%;
+}
+
+.main-but ul {
+    margin-left: -191px;
+}
+
+.main-but ul li {
+    list-style-type: none;
+    padding: 10px;
+    float: left;
+}
+
+.main-but button {
+    font-size: 50px;
+}
+
+.main-star {
+    margin-left: 50%;
+    margin-top: 181px;
+}
+
+.flag {
+    position: absolute;
+    margin-left: -146px;
+    width: 273px;
+    height: 152px;
+    background: ghostwhite;
+}
+
+.star {
+    margin-left: 83px;
+    margin-top: 26px;
+    width: 100px;
+    height: 100px;
+    background: red;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+}
