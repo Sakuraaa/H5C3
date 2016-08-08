@@ -22,14 +22,6 @@
     margin-top: 181px;
 }
 
-.flag {
-    position: absolute;
-    margin-left: -146px;
-    width: 273px;
-    height: 152px;
-    background: ghostwhite;
-}
-
 .star {
     margin-left: 83px;
     margin-top: 26px;
@@ -39,4 +31,10 @@
     -moz-border-radius: 50px;
     -webkit-border-radius: 50px;
     border-radius: 50px;
+}
+
+.score {
+    margin-top: -81px;
+    margin-left: 118px;
+    font-size: 50px;
 }
